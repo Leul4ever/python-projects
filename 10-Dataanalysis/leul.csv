@@ -1,0 +1,16 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Country
+2001,Leul Abera,Laptop Pro 15,Electronics,1,950,2024-01-10,Ethiopia
+2002,Lola Berra,Wireless Earbuds,Electronics,2,85,2024-01-12,Ethiopia
+2003,Abel Fikre,Sneakers,Fashion,1,70,2024-01-18,Kenya
+2004,Mekdes Alemu,Smartwatch,Accessories,1,120,2024-02-05,Ethiopia
+2005,Samuel Bekele,Phone Charger,Electronics,3,25,2024-02-08,Uganda
+2006,Leul Abera,Backpack,Fashion,1,45,2024-02-15,Ethiopia
+2007,Yabsira Fikire,Tablet X10,Electronics,1,420,2024-03-01,Ethiopia
+2008,Hana Getachew,T-Shirt,Fashion,2,60,2024-03-09,Ethiopia
+2009,Mahi Tesfaye,Mechanical Keyboard,Electronics,1,110,2024-03-15,Ethiopia
+2010,Lola Berra,Perfume,Beauty,2,80,2024-03-22,Ethiopia
+2011,Leul Abera,Wireless Mouse,Electronics,1,40,2024-04-01,Ethiopia
+2012,Mekdes Alemu,Denim Jacket,Fashion,1,90,2024-04-10,Ethiopia
+2013,Abel Fikre,Power Bank,Electronics,1,55,2024-04-18,Kenya
+2014,Hana Getachew,Laptop Bag,Accessories,2,35,2024-05-02,Ethiopia
+2015,Leul Abera,Running Shoes,Fashion,1,85,2024-05-08,Ethiopia
