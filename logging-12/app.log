@@ -3,3 +3,7 @@
 2025-12-22 17:10:31-root-WARNING-This is a warning message
 2025-12-22 17:10:31-root-ERROR-This is an error message
 2025-12-22 17:10:31-root-CRITICAL-This is a critical message
+2025-12-23 17:05:24-ArithmeticLogger-DEBUG-Adding 10 and 5 result 15
+2025-12-23 17:05:24-ArithmeticLogger-DEBUG-Subtracting 10 and 5 result 5
+2025-12-23 17:05:24-ArithmeticLogger-DEBUG-Multiplying 10 and 5 result 50
+2025-12-23 17:05:24-ArithmeticLogger-ERROR-Division by zero attempted
